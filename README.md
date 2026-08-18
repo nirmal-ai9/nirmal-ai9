@@ -13,7 +13,8 @@
 - **Frontend & UI** — clean component structure, semantic HTML, accessible by default
 - **Visual polish** — minimal aesthetics, consistent spacing, deliberate typography
 - **Single-file apps** — fully functional projects shipped as one portable HTML file
-- Still leveling up on backend — happy to be there
+- Learning backend basics — also solving terminal-based JS challenges
+- Partial interest in backend dev alongside frontend — happy to be there
 
 ---
 
