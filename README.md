@@ -45,10 +45,6 @@ SVG generation, Web Audio API, IntersectionObserver-driven animation, localStora
 <img src="https://stats-three-mu.vercel.app/api?username=nirmal-ai9&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
 <img src="https://stats-three-mu.vercel.app/api/top-langs/?username=nirmal-ai9&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165" />
 
-<img src="https://streak-stats.demolab.com?user=nirmal-ai9&theme=default&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nirmal-ai9&theme=minimal&hide_border=true" alt="Contribution Graph" width="95%" />
-
 </div>
 
 ---
