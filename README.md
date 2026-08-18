@@ -22,26 +22,6 @@
 
 ---
 
-## 🛠️ Projects
-
-### ♟️ Tempo
-Two-player chess built entirely in a single HTML file.
-
-> Legal move validation • Castling • En passant • Promotion • Checkmate • Stalemate • Per-move clock
-
-### ⌨️ KeyVis
-Interactive keyboard visualizer.
-
-> SVG generation • Web Audio API • IntersectionObserver • localStorage
-
-### ⚡ TypeFlow
-Browser-based typing speed test focused on speed, accuracy, and a clean UI.
-
-### ⏱️ Chess Clock
-Monochrome flip-theme chess clock with Fischer increment support.
-
----
-
 ## 💻 Stack
 
 <p>
@@ -65,24 +45,6 @@ Monochrome flip-theme chess clock with Fischer increment support.
 </div>
 
 ---
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/profile-3d-contrib/profile-night-rainbow.svg" width="95%" />
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Currently Building
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&center=true&vCenter=true&width=500&lines=Learning+Node.js;Building+JavaScript+projects;Experimenting+with+UI;Improving+my+GitHub+profile" />
-
-<br><br>
 
 *"No dead code, no duplication, nothing left half-finished."*
 
