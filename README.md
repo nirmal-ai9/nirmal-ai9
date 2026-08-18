@@ -18,20 +18,6 @@
 
 ---
 
-### Projects
-
-**Tempo** — Two-player chess, single HTML file.
-Full legal move validation, castling, en passant, promotion, check/checkmate/stalemate detection, per-move clock.
-
-**KeyVis** — Keyboard visualizer.
-SVG generation, Web Audio API, IntersectionObserver-driven animation, localStorage persistence.
-
-**TypeFlow** — Browser-based typing speed test.
-
-**Chess Clock** — Monochrome flip-theme clock with Fischer increment support.
-
----
-
 ### Stack
 
 `HTML` `CSS` `JavaScript`
