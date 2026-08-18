@@ -10,7 +10,7 @@
 
 <br><br>
 
-<a href="mailto:your.email@example.com">
+<a href="mailto:nirmal942894@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
@@ -53,11 +53,11 @@ I am a passionate **Frontend & UI Developer** with a strong focus on minimal aes
 
 I run a Discord server for **Frontend & UI Developers**! We share feedback on projects, debug JavaScript together, and talk about modern web tech.
 
-* 🚀 **Code Reviews:** Share your single-file web apps or UI components.
+* 🚀 **Code Reviews:** Share your web apps or UI components.
 * 💡 **Learning Together:** Discuss frontend trends, backend integration, and web performance.
 * 🛠️ **Build in Public:** Get constructive feedback on your latest builds.
 
-[![Join Discord](https://img.shields.io/badge/Join_Our_Discord_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-inve)
+[![Join Discord](https://img.shields.io/badge/Join_Our_Discord_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/dKa2wEJGF9)
 
 ---
 
