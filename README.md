@@ -1,25 +1,54 @@
 <div align="center">
 
-  <!-- 1. Animated Wave Header with Title -->
-  <a href="https://nirmal-ai9.github.io/portfolio/" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=2F80ED&height=160&section=header&text=🌐%20Explore%20My%20Portfolio&fontSize=30&animation=fadeIn&fontColor=ffffff" width="100%" alt="Portfolio Banner" />
+  <!-- 1. Animated Gradient Wave Header -->
+  <a href="https://nirmal-ai9.github.io/portfolio/">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=200&section=header&text=✨%20NIRMAL'S%20PORTFOLIO%20✨&fontSize=36&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header Wave" />
   </a>
 
-  <br>
-
-  <!-- 2. Animated Typing Subtitle -->
-  <a href="https://nirmal-ai9.github.io/portfolio/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=⚡+Live+Interactive+Projects;🎨+Clean+UI+%26+Minimal+Design;👉+nirmal-ai9.github.io%2Fportfolio" alt="Typing Showcase" />
+  <!-- 2. 3D Animated Hero Emoji -->
+  <a href="https://nirmal-ai9.github.io/portfolio/">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="100" />
   </a>
 
   <br><br>
 
-  <!-- 3. Animated Call-to-Action Badges -->
-  <a href="https://nirmal-ai9.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_LAUNCH_PORTFOLIO-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Visit Portfolio" />
+  <!-- 3. Glowing Multi-Line Typewriter Animation -->
+  <a href="https://nirmal-ai9.github.io/portfolio/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=🚀+WELCOME+TO+MY+DIGITAL+SPACE;🎨+Interactive+UI%2FUX+Showcase;💻+Single-File+Web+Apps;👉+Click+Below+To+Explore+Live+Portfolio!" alt="Typing Animation" />
   </a>
-  <a href="https://nirmal-ai9.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/LIVE_DEMO-2F80ED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" />
+
+  <br><br>
+
+  <!-- 4. High-Impact CTA Badges -->
+  <p>
+    <a href="https://nirmal-ai9.github.io/portfolio/">
+      <img src="https://img.shields.io/badge/🌐_ENTER_PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=00F2FE" alt="Live Portfolio" />
+    </a>
+    <a href="https://nirmal-ai9.github.io/portfolio/">
+      <img src="https://img.shields.io/badge/⚡_EXPLORE_PROJECTS-2F80ED?style=for-the-badge&logo=lightning&logoColor=white" alt="Projects" />
+    </a>
+  </p>
+
+  <br>
+
+  <!-- 5. Animated Contribution & Activity Visualizer -->
+  <a href="https://nirmal-ai9.github.io/portfolio/">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nirmal-ai9&theme=react-dark&bg_color=0D1117&hide_border=true&color=2F80ED&line=00F2FE&point=ffffff&area=true" width="95%" alt="Activity Graph" />
+  </a>
+
+  <br><br>
+
+  <!-- 6. Interactive Skill Badges -->
+  <p><strong>Interactive Tech Arsenal</strong></p>
+  <a href="https://nirmal-ai9.github.io/portfolio/">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,mongodb,git,github,vscode" alt="Tech Stack" />
+  </a>
+
+  <br><br>
+
+  <!-- 7. Matching Animated Footer Wave -->
+  <a href="https://nirmal-ai9.github.io/portfolio/">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=120&section=footer" width="100%" alt="Footer Wave" />
   </a>
 
 </div>
