@@ -70,22 +70,7 @@ Backend basics (Node.js, MongoDB) + shipping single-file web apps
 ### 📊 The numbers
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nirmal-ai9&show_icons=true&theme=default&hide_border=true" alt="Nirmal's GitHub stats" />
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirmal-ai9&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nirmal-ai9&theme=react-dark&hide_border=true" alt="Contribution activity graph" />
-</p>
-
-<!--
-  Animated contribution snake — needs a one-time GitHub Actions setup to generate
-  the snake.svg file automatically. Ask me and I'll walk you through the workflow file.
--->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nirmal-ai9/nirmal-ai9/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
 </p>
 
 ---
