@@ -60,9 +60,6 @@ I run a **Frontend & UI Developers Discord** — code reviews, JS debugging toge
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nirmal-ai9&show_icons=true&theme=default&hide_border=true" alt="Nirmal's GitHub stats" />
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirmal-ai9&hide_border=true" alt="GitHub Streak" />
 </p>
 
