@@ -1,56 +1,77 @@
-<div align="center">
+<h1 align="center">Hi, I'm Nirmal 👋</h1>
+<h3 align="center">Frontend & UI Developer | Building clean, self-contained web apps</h3>
 
-  <!-- 1. Header Wave (Unified Cyan/Blue Gradient) -->
+<p align="center">
   <a href="https://nirmal-ai9.github.io/portfolio/">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=2F80ED&customColorList=0D1117,2F80ED,00F2FE&height=200&section=header&text=%20NIRMAL'S%20PORTFOLIO%20&fontSize=36&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header Wave" />
+    <img src="https://img.shields.io/badge/Portfolio-View-1a1a2e?style=for-the-badge" alt="Portfolio" />
   </a>
-
-  <!-- 2. Rocket Asset -->
-  <a href="https://nirmal-ai9.github.io/portfolio/">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="100" />
+  <a href="https://discord.gg/dKa2wEJGF9">
+    <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-
-  <br><br>
-
-  <!-- 3. Typing Animation (Matching Cyan Text) -->
-  <a href="https://nirmal-ai9.github.io/portfolio/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=WELCOME+TO+MY+DIGITAL+SPACE;Interactive+UI+Showcase;Single-File+Web+Apps;Click+Below+To+Explore!" alt="Typing Animation" />
+  <a href="mailto:nirmal942894@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+</p>
 
-  <br><br>
+---
 
-  <!-- 4. CTA Badges (Unified Dark Canvas with Cyan & Blue Highlights) -->
-  <p>
-    <a href="https://nirmal-ai9.github.io/portfolio/">
-      <img src="https://img.shields.io/badge/ENTER_PORTFOLIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00F2FE&labelColor=0D1117" alt="Live Portfolio" />
-    </a>
-    <a href="https://nirmal-ai9.github.io/portfolio/">
-      <img src="https://img.shields.io/badge/EXPLORE_PROJECTS-0D1117?style=for-the-badge&logo=lightning&logoColor=2F80ED&labelColor=0D1117" alt="Projects" />
-    </a>
-  </p>
+### 🧭 About Me
 
-  <br>
+I'm a **Frontend & UI Developer** focused on minimal aesthetics, semantic HTML, and accessible design. I write clean, duplication-free code and ship self-contained, single-file web applications — no framework overhead, just HTML, CSS, and JavaScript doing the work.
 
-  <!-- 5. Matching Cyan-Blue Glowing Line Divider -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=2F80ED&customColorList=0D1117,2F80ED,00F2FE&height=4" width="80%" alt="Theme Divider" />
+- 🎨 Obsessed with visual polish and intentional, minimal design
+- 🌱 Currently deepening backend fundamentals — Node.js, MongoDB, and server-side basics
+- ♟️ Chess enthusiast — it shows up in more than one of my projects
+- 🧠 Philosophy: no dead code, no duplication, nothing left half-finished
 
-  <br><br>
+---
 
-  <!-- 6. Coding Animation -->
-  <img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="420" alt="Coding animation" />
+### 🚀 Featured Projects
 
-  <br><br>
+| Project | Description | Links |
+|---|---|---|
+| **JavaScript Challenges** | A terminal-based collection of JS challenges — solve problems, auto-generate solution templates, run tests, and submit solutions via PRs. | [Repo](https://github.com/nirmal-ai9/JavaScript-challenges) |
+| **TypeFlow** | A browser-based typing speed test with a splash page, live dashboard, and real-time WPM/accuracy tracking. | [Live](https://nirmal-ai9.github.io/TypeFlow/) · [Repo](https://github.com/nirmal-ai9/TypeFlow) |
+| **Inflation Calculator** | A tool showing how money changes in value over time using compound inflation. | [Live](https://nirmal-ai9.github.io/Inflation-calculator/) · [Repo](https://github.com/nirmal-ai9/Inflation-calculator) |
+| **Chess Clock** | An over-the-board chess clock — monochrome flip theme, custom time controls, and Fischer increment, in a single HTML file. | [Live](https://nirmal-ai9.github.io/Chess-clock/) · [Repo](https://github.com/nirmal-ai9/Chess-clock) |
 
-  <!-- 7. Activity Visualizer (Matched Theme Palette) -->
-  <a href="https://nirmal-ai9.github.io/portfolio/">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nirmal-ai9&theme=react-dark&bg_color=0D1117&hide_border=true&color=2F80ED&line=00F2FE&point=ffffff&title_color=00F2FE&area=true" width="95%" alt="Activity Graph" />
+---
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,git,github,vscode" alt="Tech stack" />
+</p>
+
+---
+
+### 💬 Community
+
+I run a **Frontend & UI Developers Discord** — code reviews, JS debugging together, and building in public.
+
+<p>
+  <a href="https://discord.gg/dKa2wEJGF9">
+    <img src="https://img.shields.io/badge/Join-Frontend%20%26%20UI%20Dev%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Community" />
   </a>
+</p>
 
-  <br><br>
+---
 
-  <!-- 8. Footer Wave (Matching Header Gradient) -->
-  <a href="https://nirmal-ai9.github.io/portfolio/">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=2F80ED&customColorList=0D1117,2F80ED,00F2FE&height=120&section=footer" width="100%" alt="Footer Wave" />
-  </a>
+### 📊 GitHub Stats
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nirmal-ai9&show_icons=true&theme=default&hide_border=true" alt="Nirmal's GitHub stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirmal-ai9&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🔗 Connect
+
+<p>
+  <a href="https://nirmal-ai9.github.io/portfolio/">Portfolio</a> •
+  <a href="https://discord.gg/dKa2wEJGF9">Discord Community</a> •
+  <a href="mailto:nirmal942894@gmail.com">Email</a>
+</p>
