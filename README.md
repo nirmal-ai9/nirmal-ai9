@@ -21,7 +21,7 @@
 
 ### A bit about me
 
-My name is Nirmal Prajapati.I'm 15 years old. I like taking a plain HTML 5 file and seeing how far I can push it — no framework, no build step, just clean markup, tidy CSS 3, and vanilla JS doing all the work. Something about a whole app living in one file scratches an itch for me.
+My name is Nirmal Prajapati. I'm 15 years old. I like taking a plain HTML 5 file and seeing how far I can push it — no framework, no build step, just clean markup, tidy CSS 3, and vanilla JS doing all the work. Something about a whole app living in one file scratches an itch for me.
 
 Right now I'm on the frontend side of things, chasing minimal, intentional design over anything flashy. I'm also slowly climbing the backend learning curve — Node.js and MongoDB are the current targets. And when I'm not writing code, there's a good chance I'm playing chess, which is probably why half my projects are chess-shaped.
 
