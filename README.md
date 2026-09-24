@@ -48,10 +48,10 @@ Backend basics (Node.js, MongoDB) + shipping single-file web apps
 
 | Project | What it is | Links |
 |---|---|---|
+| **DebugAI** | Find the fix. A debugging AI tool for every language. | [Live](https://nirmal-ai9.github.io/DebugAI/) · [Repo](https://github.com/nirmal-ai9/DebugAI)|
 | **JavaScript Challenges** | A terminal-based set of JS problems — auto-generated templates, test runner, PR-based solutions. | [Repo](https://github.com/nirmal-ai9/JavaScript-challenges) |
 | **TypeFlow** | A typing speed test with a live dashboard and real-time WPM/accuracy tracking. | [Live](https://nirmal-ai9.github.io/TypeFlow/) · [Repo](https://github.com/nirmal-ai9/TypeFlow) |
 | **Inflation Calculator** | Shows how money's value shifts over time using compound inflation. | [Live](https://nirmal-ai9.github.io/Inflation-calculator/) · [Repo](https://github.com/nirmal-ai9/Inflation-calculator) |
-| **Chess Clock** | An over-the-board chess clock — flip theme, custom time controls, Fischer increment. | [Live](https://nirmal-ai9.github.io/Chess-clock/) · [Repo](https://github.com/nirmal-ai9/Chess-clock) |
 
 ---
 
