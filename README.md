@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://nirmal-ai9.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-View-1a1a2e?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://nirmal-ai9.github.io/"><img src="https://img.shields.io/badge/Portfolio-View-1a1a2e?style=for-the-badge" alt="Portfolio" /></a>
   <a href="https://discord.gg/dKa2wEJGF9"><img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="mailto:nirmalprajapati9978@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -48,8 +48,9 @@ Backend basics (Node.js, MongoDB) + shipping single-file web apps
 
 | Project | What it is | Links |
 |---|---|---|
-| **DebugAI** | Find the fix. A debugging AI tool for every language. | [Live](https://nirmal-ai9.github.io/DebugAI/) · [Repo](https://github.com/nirmal-ai9/DebugAI)|
+| **DebugAI** | Paste your intent, code and console error. DebugAI finds where they disagree and returns a fix you can apply. | [Live](https://nirmal-ai9.github.io/DebugAI/) · [Repo](https://github.com/nirmal-ai9/DebugAI) |
 | **TypeFlow** | A typing speed test with a live dashboard and real-time WPM/accuracy tracking. | [Live](https://nirmal-ai9.github.io/TypeFlow/) · [Repo](https://github.com/nirmal-ai9/TypeFlow) |
+| **Inflation Calculator** | A single-file tool that compares purchasing power across years. | [Live](https://nirmal-ai9.github.io/Inflation-calculator/) |
 | **JavaScript Challenges** | A terminal-based set of JS problems — auto-generated templates, test runner, PR-based solutions. | [Repo](https://github.com/nirmal-ai9/JavaScript-challenges) |
 
 ---
@@ -69,7 +70,7 @@ Backend basics (Node.js, MongoDB) + shipping single-file web apps
 ### 📊 The numbers
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirmal-ai9&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=nirmal-ai9&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
